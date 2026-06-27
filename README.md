@@ -2,10 +2,10 @@
 
 **QA Engineer | Analista de Qualidade**
 
-**WhatsApp: 88 99497-7967**
-**E-mail: [artur3r4g4@gmail.com](mailto:artur3r4g4@gmail.com)**
-**LinkedIn: [www.linkedin.com/in/artur-braga-16a887304](https://www.linkedin.com/in/artur-braga-16a887304)**
-**GitHub: [github.com/Artur242/Artur242](https://github.com/Artur242/Artur242)**
+WhatsApp: 88 99497-7967\
+E-mail: [artur3r4g4@gmail.com](mailto:artur3r4g4@gmail.com)\
+LinkedIn: [www.linkedin.com/in/artur-braga-16a887304](https://www.linkedin.com/in/artur-braga-16a887304)\
+GitHub: [github.com/Artur242/Artur242](https://github.com/Artur242/Artur242)\
 
 ## 🏵️ Resumo Profissional
 
