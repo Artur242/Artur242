@@ -1,28 +1,37 @@
-## Olá, sou o Artur Fernandes Braga👋
- WhatsApp: (88) 9 9497-7967  
- E-mail: artur3r4g4@gmail.com  
- LinkedIn: www.linkedin.com/in/artur-braga-16a887304  
- GitHub: https://github.com/Artur242/Artur242
- 
-## ☀️ Sobre Mim (Resumo de Qualificações)
-Sou um profissional da área da Qualidade de Software e tenho como principal objetivo de garantir a exelência do produto para o usuário final. Com minha experiência em testes manuais e automatizados, busco entregar os melhores resultados e buscar possíveis soluções para garantir sempre o maior nível de qualidade.
+# Olá, sou o Artur Fernandes Braga 👋[cite: 2]
 
-## 🛠️ Minhas Especialidades
-- Ferramentas de Automação e Tecnologia
-- Automação de Testes: 🟢 Cypress (JavaScript/TS), Postman (API Testing).
-- Gestão de Projetos: 🎫 Jira, Azure DevOps, Trello, Metodologias Ágeis (Scrum).
-- Linguagens de Desenvolvimento: 💻 JavaScript (Base), HTML, CSS, SQL, C, C++, Java.
-- Controle de Versão: 🔄 Git/GitHub.
+**QA Engineer | Analista de Qualidade**[cite: 2]
+
+WhatsApp: 88 99497-7967[cite: 2]  
+E-mail: [artur3r4g4@gmail.com](mailto:artur3r4g4@gmail.com)[cite: 2]  
+LinkedIn: [www.linkedin.com/in/artur-braga-16a887304](https://www.linkedin.com/in/artur-braga-16a887304)[cite: 2]  
+GitHub: [github.com/Artur242/Artur242](https://github.com/Artur242/Artur242)[cite: 2]
+
+## 🏵️ Resumo Profissional
+
+Analista de Qualidade com experiência em testes manuais, automatizados e testes de API para aplicações web.[cite: 2] Atuação na elaboração de planos, cenários e casos de teste, execução de testes funcionais, exploratórios, regressivos e validação de APIs utilizando ferramentas como Postman.[cite: 2] Experiência com automação utilizando Cypress, além de conhecimentos em JavaScript, SQL, Git, Jira, Azure DevOps, Trello e metodologias ágeis.[cite: 2]
+
+## 🛠️ Competências Técnicas
+
+- **Testes e Automação:** Testes Funcionais[cite: 2], Testes Exploratórios[cite: 2], Testes de Regressão[cite: 2], Testes de API[cite: 2], Postman[cite: 2], Testes Automatizados[cite: 2], Cypress[cite: 2].
+- **Linguagens e Tecnologias:** JavaScript[cite: 2], SQL[cite: 2], HTML[cite: 2], CSS[cite: 2], C[cite: 2], C++[cite: 2], Java[cite: 2].
+- **Gestão e Processos:** Git/GitHub[cite: 2], Jira[cite: 2], Azure DevOps[cite: 2], Trello[cite: 2], Scrum[cite: 2], Kanban[cite: 2].
 
 ## 💼 Experiência Profissional
-- Analista de Testes CodXis | Julho/2021 a Agosto/2022  
-  Planejamento e Execução: Criei e documentei planos e casos de testes abrangentes, executando testes funcionais, não funcionais e exploratórios.  
 
-  Automação: Desenvolvi rotinas de testes automatizados com Cypress, por interface de usuário (E2E) e por API.  
+- **Analista de Testes — CodXis (Set/2025 – Mar/2026)**[cite: 2]
+  - Planejamento e execução de testes funcionais, exploratórios e de regressão.[cite: 2]
+  - Elaboração de planos, cenários e casos de teste.[cite: 2]
+  - Registro, acompanhamento e validação de correções de bugs.[cite: 2]
+  - Desenvolvimento e manutenção de testes automatizados utilizando Cypress.[cite: 2]
+  - Colaboração com a equipe de desenvolvimento para identificação da causa raiz de defeitos.[cite: 2]
 
-  Gestão de Falhas: Gerenciei o ciclo de vida de bugs e falhas do sistema e conduzi a verificação de causas junto ao time de desenvolvimento.  
+## 🎓 Formação e Projetos Acadêmicos
 
+- **Formação:** Bacharelado em Ciência da Computação – IFCE Campus Tianguá (Previsão: Dez/2027)[cite: 2]
+- **Projetos Acadêmicos:** Desenvolvimento de aplicações web com HTML, CSS e JavaScript e automação de testes com Cypress em projetos acadêmicos.[cite: 2]
 
-- Experiência Acadêmica e Projetos Projeto Acadêmico: Desenvolvedor Full Stack & Analista de QA (2023 – 2025)
+## 🌐 Idiomas
 
-Atuação no desenvolvimento Web (Front-end e Back-end) e aplicação de princípios de Quality Assurance, garantindo a qualidade com testes manuais e automação em Cypress.
+- **Português:** Nativo[cite: 2]
+- **Inglês:** Básico (leitura de documentação técnica).[cite: 2]
